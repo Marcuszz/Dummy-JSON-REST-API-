@@ -1,0 +1,11 @@
+{
+    "name": "marcs/dummyjson",
+    "autoload": {
+        "psr-4": {
+            "Marcs\\Dummyjson\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
